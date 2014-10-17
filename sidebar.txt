@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myd:home|Door43 (myd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myd|d43-myd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myd/archive/master.zip|d43-myd.zip]]
+
+**Recent Changes**
+{{changes>ns = myd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myd|Ethnologue data]]
+
